@@ -9,7 +9,12 @@ A simple mobile application built using React Native that allows users to guess 
 - **Simple Interface:** Clean and easy-to-use interface for an enjoyable user experience.
 
 ## Screenshots
+![WhatsApp Image 2024-12-28 at 22 57 11_3d40e9e4](https://github.com/user-attachments/assets/8937f3e0-8f25-4d28-af20-b2bffc150d32)
+![WhatsApp Image 2024-12-28 at 22 57 10_6b2be149](https://github.com/user-attachments/assets/93ad2619-b7d6-4cad-9985-24371b2dede2)
 ![WhatsApp Image 2024-12-28 at 22 57 08_3c21802f](https://github.com/user-attachments/assets/9ecff0be-132c-48f2-bacc-b2bacfa7ed6f)
+![WhatsApp Image 2024-12-28 at 22 57 09_7f959cf8](https://github.com/user-attachments/assets/0a4eddcd-cd37-43ba-8439-3ee44a5ccf00)
+![WhatsApp Image 2024-12-28 at 22 57 10_7c6fa22e](https://github.com/user-attachments/assets/efdc2fe4-6587-45d7-8480-8f37847f5fc3)
+
 
 
 ## Installation
